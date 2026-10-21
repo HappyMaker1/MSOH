@@ -1,0 +1,4 @@
+﻿Validation_Block,N_Checks,N_Passed,Status
+Synthetic decision fixtures,30,30,PASS
+Real-data regression,16,16,PASS
+V1 frozen baseline artifacts present,2,2,PASS

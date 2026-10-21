@@ -1,0 +1,5 @@
+﻿RemovedSignal,Variant,MSOH_All4,MSOH_Without_Signal,Delta_MSOH_s
+Defecation,Minus_Defecation,4.0,5.0,1.0
+Feeding,Minus_Feeding,4.0,4.0,0.0
+Status_Score,Minus_Status_Score,4.0,,
+Weight,Minus_Weight,4.0,5.0,1.0

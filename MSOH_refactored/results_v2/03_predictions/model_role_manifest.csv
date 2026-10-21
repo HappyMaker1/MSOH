@@ -1,0 +1,6 @@
+﻿Model,Role,Reason
+euclidean_feature,primary_nested_candidate,Stable nonparametric trajectory-feature comparator.
+dtw_core3,primary_nested_candidate,Stable Core3 trajectory-similarity comparator.
+dtw_all4,primary_nested_candidate,Schedule-aware All4 trajectory-similarity comparator.
+ridge_direct,primary_nested_candidate,Regularized direct predictor.
+mixed_effects,sensitivity_only,"Excluded from formal nested selection after the pre-Phase-3 Gate A numerical-stability audit: repeated inner-CV fits showed non-convergence / optimizer fallback. Historical diagnostic results are retained, but Mixed Effects does not determine formal V2 outer predictions."

@@ -1,0 +1,13 @@
+﻿Group,Weight_Missing_N,Weight_Observed_N,Status_Score_Missing_N,Status_Score_Observed_N,Feeding_Missing_N,Feeding_Observed_N,Defecation_Missing_N,Defecation_Observed_N
+model,0,9,0,9,0,9,5,4
+op,0,9,0,9,0,9,5,4
+op1,0,9,0,9,0,9,5,4
+op2,0,9,0,9,0,9,5,4
+op3,0,9,0,9,0,9,5,4
+op4,0,9,0,9,0,9,5,4
+op5,0,9,0,9,0,9,5,4
+op6,0,9,0,9,0,9,5,4
+op7,0,9,0,9,0,9,5,4
+op8,0,9,0,9,0,9,5,4
+op9,0,9,0,9,0,9,5,4
+sham,0,9,0,9,0,9,5,4

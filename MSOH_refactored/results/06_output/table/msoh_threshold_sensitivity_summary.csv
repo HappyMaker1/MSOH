@@ -1,0 +1,6 @@
+﻿SimilarityLabel,N_Threshold_Combinations,N_No_MSOH,P_No_MSOH,Most_Common_MSOH,Most_Common_MSOH_Proportion,MSOH_Min,MSOH_Max,P_Adequacy_Reached,P_Persistent_Saturation_Established,Most_Common_Persistent_Saturation_Onset
+DTW All4,192,192,1.0,,,,,0.0,0.0,
+DTW Core3,192,192,1.0,,,,,0.0,0.0,
+Euclidean Feature,192,192,1.0,,,,,0.0,0.0,
+Mixed Effects,192,192,1.0,,,,,0.0,0.0,
+Ridge Direct,192,192,1.0,,,,,0.0,0.0,

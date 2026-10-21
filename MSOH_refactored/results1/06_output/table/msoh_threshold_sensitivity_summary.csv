@@ -1,0 +1,4 @@
+﻿SimilarityLabel,N_Threshold_Combinations,N_No_MSOH,P_No_MSOH,Most_Common_MSOH,Most_Common_MSOH_Proportion,MSOH_Min,MSOH_Max
+DTW All4,192,48,0.25,4,0.46875,4,5
+DTW Core3,192,0,0.0,5,0.9947916666666666,3,5
+Euclidean Feature,192,180,0.9375,4,0.0625,4,4

@@ -1,0 +1,6 @@
+﻿Variant,Candidate_MSOH,Decision_Status,Error_Threshold,Gain_Delta,Alpha,Stability_Threshold
+All4,,No window satisfied all criteria,0.4,0.03,0.1,0.75
+Minus_Defecation,,No window satisfied all criteria,0.4,0.03,0.1,0.75
+Minus_Feeding,,No window satisfied all criteria,0.4,0.03,0.1,0.75
+Minus_Status_Score,,No window satisfied all criteria,0.4,0.03,0.1,0.75
+Minus_Weight,,No window satisfied all criteria,0.4,0.03,0.1,0.75

@@ -1,0 +1,13 @@
+﻿Group,n_rows,day_min,day_max,missing_days,extra_days,complete_Day1_Day9
+model,9,1,9,,,True
+op,9,1,9,,,True
+op1,9,1,9,,,True
+op2,9,1,9,,,True
+op3,9,1,9,,,True
+op4,9,1,9,,,True
+op5,9,1,9,,,True
+op6,9,1,9,,,True
+op7,9,1,9,,,True
+op8,9,1,9,,,True
+op9,9,1,9,,,True
+sham,9,1,9,,,True

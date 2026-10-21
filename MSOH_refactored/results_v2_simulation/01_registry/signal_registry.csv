@@ -1,0 +1,5 @@
+﻿name,role,density,outcome_kind,observed_col,predictor_panel,error_threshold,gain_delta,alpha,stability_threshold,group_epsilon,is_sparse
+Feeding,core3,dense,continuous,Feeding_observed,euclidean_feature;dtw_core3;dtw_all4;ridge_direct;mixed_effects,0.4,0.03,0.1,0.75,0.03,False
+Status_Score,core3,dense,continuous_group_mean,Status_Score_observed,euclidean_feature;dtw_core3;dtw_all4;ridge_direct;mixed_effects,0.4,0.03,0.1,0.75,0.03,False
+Weight,core3,dense,continuous,Weight_observed,euclidean_feature;dtw_core3;dtw_all4;ridge_direct;mixed_effects,0.4,0.03,0.1,0.75,0.03,False
+Defecation,extended_all4,planned_sparse,continuous_sparse,Defecation_observed,dtw_all4;ridge_direct;mixed_effects,0.4,0.03,0.1,0.75,0.03,True

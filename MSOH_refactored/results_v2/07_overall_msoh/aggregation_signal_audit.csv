@@ -1,0 +1,5 @@
+﻿Signal,Signal_Status,Signal_MSOH,Finite_Signal_MSOH,Adequacy_Onset,Persistent_Saturation_Onset,Last_Window,Last_Window_Error,Aggregation_Note
+Weight,Not_reached,,False,,,6,0.4348201522534005,Weight: neither a finite signal MSOH nor the required joint adequacy+saturation state was established within the evaluated horizon
+Status_Score,Not_reached,,False,,,6,1.154264132071213,Status_Score: neither a finite signal MSOH nor the required joint adequacy+saturation state was established within the evaluated horizon
+Feeding,Adequate_not_saturated,,False,3.0,,6,0.2547355166101723,"Feeding: predictive adequacy reached, but persistent saturation not established"
+Defecation,Indeterminate_due_to_sparse_schedule,,False,6.0,,6,0.2801198949052518,Defecation: indeterminate because the planned-sparse schedule does not support a finite MSOH determination

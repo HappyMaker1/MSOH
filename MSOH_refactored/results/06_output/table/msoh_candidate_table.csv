@@ -1,0 +1,6 @@
+﻿SimilarityLabel,Candidate_MSOH,Adequacy_Onset,Persistent_Saturation_Onset,Saturation_Evidence_N_Future_Transitions,Last_Evaluable_Window,Last_Window_Error,Adequacy_Reached_Within_Horizon,Persistent_Saturation_Established_Within_Horizon,Decision_Status,Error_Threshold,Gain_Delta,Alpha,Stability_Threshold
+DTW All4,,,,,6,0.6593486545889645,False,False,Neither predictive adequacy nor persistent saturation established,0.4,0.03,0.1,0.75
+DTW Core3,,,,,6,0.654551955164773,False,False,Neither predictive adequacy nor persistent saturation established,0.4,0.03,0.1,0.75
+Euclidean Feature,,,,,6,0.6374554420599309,False,False,Neither predictive adequacy nor persistent saturation established,0.4,0.03,0.1,0.75
+Mixed Effects,,,,,6,0.6093146633591918,False,False,Neither predictive adequacy nor persistent saturation established,0.4,0.03,0.1,0.75
+Ridge Direct,,,,,6,0.6646610856982142,False,False,Neither predictive adequacy nor persistent saturation established,0.4,0.03,0.1,0.75

@@ -1,0 +1,10 @@
+﻿Signal,Day,N_Groups,N_Observed_Flag1,Observed_Fraction,N_Nonmissing_Value,Any_Observed,All_Groups_Observed,Signal_window,Window,N_Real_Observed_Days_Available,Introduces_New_Sparse_Information
+Defecation,1,12,0,0.0,0,False,False,,,,
+Defecation,2,12,12,1.0,12,True,True,Defecation,2.0,1.0,True
+Defecation,3,12,0,0.0,0,False,False,Defecation,3.0,1.0,False
+Defecation,4,12,12,1.0,12,True,True,Defecation,4.0,2.0,True
+Defecation,5,12,0,0.0,0,False,False,Defecation,5.0,2.0,False
+Defecation,6,12,12,1.0,12,True,True,Defecation,6.0,3.0,True
+Defecation,7,12,0,0.0,0,False,False,,,,
+Defecation,8,12,0,0.0,0,False,False,,,,
+Defecation,9,12,12,1.0,12,True,True,,,,

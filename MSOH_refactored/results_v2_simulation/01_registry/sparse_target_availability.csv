@@ -1,0 +1,4 @@
+﻿Signal,Day,N_Groups,N_Observed_Flag1,Observed_Fraction,N_Nonmissing_Value,Any_Observed,All_Groups_Observed,Is_TargetDay,Usable_As_Observed_Target
+Defecation,7,12,0,0.0,0,False,False,True,False
+Defecation,8,12,0,0.0,0,False,False,True,False
+Defecation,9,12,12,1.0,12,True,True,True,True

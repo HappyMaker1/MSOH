@@ -1,0 +1,33 @@
+{
+  "raw_input": "E:\\MSOH_refactored\\data\\animal_data.xlsx",
+  "raw_sha256": "c828b477ac0f181eb30ff7e91a00ce3a2a067b29e21dfe34b9c771a4f761be03",
+  "clean_data": "E:\\MSOH_refactored\\results_v2_simulation\\01_output\\animal_data_clean.csv",
+  "clean_sha256": "e011bccea29d57f2812c3e00a20d56455d0538024ba70ada4fd77c348cf70034",
+  "n_rows": 108,
+  "n_groups": 12,
+  "groups": [
+    "model",
+    "op",
+    "op1",
+    "op2",
+    "op3",
+    "op4",
+    "op5",
+    "op6",
+    "op7",
+    "op8",
+    "op9",
+    "sham"
+  ],
+  "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ]
+}

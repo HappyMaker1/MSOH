@@ -1,0 +1,44 @@
+{
+  "n_rows": 108,
+  "n_groups": 12,
+  "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "candidate_windows": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "target_days": [
+    7,
+    8,
+    9
+  ],
+  "defecation_design_observed_days": [
+    2,
+    4,
+    6,
+    9
+  ],
+  "defecation_effective_windows": [
+    2,
+    4,
+    6
+  ],
+  "defecation_observed_target_days": [
+    9
+  ],
+  "defecation_schedule_consistent_across_groups": true,
+  "gate_b_status": "PENDING_REVIEW",
+  "gate_b_note": "Phase 1 intentionally does not invent a minimum number of sparse windows/targets required for estimability. Gate B must approve that rule before formal Defecation MSOH decisions."
+}

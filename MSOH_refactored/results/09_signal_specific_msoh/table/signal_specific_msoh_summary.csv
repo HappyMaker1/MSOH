@@ -1,0 +1,25 @@
+SimilarityLabel,Model,Signal,Candidate_MSOH,Adequacy_Onset,Persistent_Saturation_Onset,Decision_Status,Best_Error,Best_Error_Window,Last_Window,Last_Window_Error
+GlobalMean,GlobalMean,Weight,,,2.0,Persistent saturation established; predictive adequacy not reached,1.0766710052639,2,6,1.0766710052639
+GlobalMean,GlobalMean,Status_Score,,,2.0,Persistent saturation established; predictive adequacy not reached,1.0636935314157496,2,6,1.0636935314157496
+GlobalMean,GlobalMean,Feeding,2.0,2.0,2.0,Signal-specific MSOH identified,0.29390085896245827,2,6,0.29390085896245827
+LOCF,LOCF,Weight,,,,Neither predictive adequacy nor persistent saturation established,0.6201117997018858,6,6,0.6201117997018858
+LOCF,LOCF,Status_Score,,,,Neither predictive adequacy nor persistent saturation established,0.8698229650416138,6,6,0.8698229650416138
+LOCF,LOCF,Feeding,,,,Neither predictive adequacy nor persistent saturation established,1.0639827705042983,5,6,1.160755980621736
+Linear,Linear,Weight,,,,Neither predictive adequacy nor persistent saturation established,0.5611502689610726,6,6,0.5611502689610726
+Linear,Linear,Status_Score,,,,Neither predictive adequacy nor persistent saturation established,0.7444067923456664,6,6,0.7444067923456664
+Linear,Linear,Feeding,,,,Neither predictive adequacy nor persistent saturation established,1.298355579775194,4,6,1.4439973618704982
+Mixed Effects,Probe_MixedEffects_BLUP,Weight,,,,Neither predictive adequacy nor persistent saturation established,0.40907773652456125,6,6,0.40907773652456125
+Mixed Effects,Probe_MixedEffects_BLUP,Status_Score,,,,Neither predictive adequacy nor persistent saturation established,0.45094717971485654,4,6,0.6257219717762151
+Mixed Effects,Probe_MixedEffects_BLUP,Feeding,,,2.0,Persistent saturation established; predictive adequacy not reached,0.7900222971108312,2,6,0.7931442817768002
+Ridge Direct,Probe_Ridge_Direct,Weight,,,,Neither predictive adequacy nor persistent saturation established,0.48594451321539706,6,6,0.48594451321539706
+Ridge Direct,Probe_Ridge_Direct,Status_Score,,,,Neither predictive adequacy nor persistent saturation established,0.794408353837675,5,6,1.3005424204620601
+Ridge Direct,Probe_Ridge_Direct,Feeding,,3.0,,Predictive adequacy reached; persistent saturation not established,0.2074963234171873,6,6,0.2074963234171873
+DTW All4,Similarity_DTW_All4_K2,Weight,,,,Neither predictive adequacy nor persistent saturation established,0.8115386476863313,6,6,0.8115386476863313
+DTW All4,Similarity_DTW_All4_K2,Status_Score,,,,Neither predictive adequacy nor persistent saturation established,0.8922593547784874,6,6,0.8922593547784874
+DTW All4,Similarity_DTW_All4_K2,Feeding,,2.0,,Predictive adequacy reached; persistent saturation not established,0.2742479613020764,6,6,0.2742479613020764
+DTW Core3,Similarity_DTW_Core3_K2,Weight,,,,Neither predictive adequacy nor persistent saturation established,0.8019021445782758,5,6,0.8165915839665231
+DTW Core3,Similarity_DTW_Core3_K2,Status_Score,,,,Neither predictive adequacy nor persistent saturation established,0.889511261922409,6,6,0.889511261922409
+DTW Core3,Similarity_DTW_Core3_K2,Feeding,,2.0,,Predictive adequacy reached; persistent saturation not established,0.2575530196053885,6,6,0.2575530196053885
+Euclidean Feature,Similarity_EuclideanFeature_K2,Weight,,,,Neither predictive adequacy nor persistent saturation established,0.7539898646687396,6,6,0.7539898646687396
+Euclidean Feature,Similarity_EuclideanFeature_K2,Status_Score,,,,Neither predictive adequacy nor persistent saturation established,0.8916967758619184,6,6,0.8916967758619184
+Euclidean Feature,Similarity_EuclideanFeature_K2,Feeding,,2.0,,Predictive adequacy reached; persistent saturation not established,0.26667968564913547,6,6,0.26667968564913547

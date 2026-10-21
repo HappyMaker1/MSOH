@@ -1,0 +1,17 @@
+﻿Level,Entity,Field,Observed,Expected,PASS
+Signal,Feeding,Decision_Status,Adequate_not_saturated,Adequate_not_saturated,True
+Signal,Feeding,Adequacy_Onset,3.0,3.0,True
+Signal,Feeding,Candidate_MSOH,,,True
+Signal,Status_Score,Decision_Status,Not_reached,Not_reached,True
+Signal,Status_Score,Adequacy_Onset,,,True
+Signal,Status_Score,Candidate_MSOH,,,True
+Signal,Weight,Decision_Status,Not_reached,Not_reached,True
+Signal,Weight,Adequacy_Onset,,,True
+Signal,Weight,Candidate_MSOH,,,True
+Signal,Defecation,Decision_Status,Indeterminate_due_to_sparse_schedule,Indeterminate_due_to_sparse_schedule,True
+Signal,Defecation,Adequacy_Onset,6.0,6.0,True
+Signal,Defecation,Candidate_MSOH,,,True
+Overall,Core3,Decision_Status,Not_identified_within_evaluated_horizon,Not_identified_within_evaluated_horizon,True
+Overall,Core3,MSOH,,,True
+Overall,Extended_All4,Decision_Status,Indeterminate_due_to_sparse_Defecation_schedule,Indeterminate_due_to_sparse_Defecation_schedule,True
+Overall,Extended_All4,MSOH,,,True

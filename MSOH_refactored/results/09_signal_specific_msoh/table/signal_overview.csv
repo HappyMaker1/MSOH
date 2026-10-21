@@ -1,0 +1,4 @@
+Signal,N_Models,N_Models_With_MSOH,N_Models_Adequate,N_Models_Persistently_Saturated,Lowest_Last_Window_Error_Model,Lowest_Last_Window_Error,Note
+Feeding,8,1,5,2,Ridge Direct,0.2074963234171873,Descriptive only; do not select final predictor from this table without a pre-specified/nested selection rule.
+Status_Score,8,0,0,1,Mixed Effects,0.6257219717762151,Descriptive only; do not select final predictor from this table without a pre-specified/nested selection rule.
+Weight,8,0,0,1,Mixed Effects,0.40907773652456125,Descriptive only; do not select final predictor from this table without a pre-specified/nested selection rule.

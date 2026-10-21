@@ -1,0 +1,5 @@
+﻿Signal,Role,Density,Error_Threshold,Gain_Delta,Alpha,Stability_Threshold,Adequacy_Onset,Persistent_Saturation_Onset,Diagnostic_Candidate_MSOH,Candidate_MSOH,Last_Window,Last_Window_Error,Decision_Status,Reason
+Feeding,core3,dense,0.4,0.03,0.1,0.75,,,,,6,0.5503870064848297,Not_reached,Neither adequacy nor persistent saturation established within the evaluated horizon.
+Status_Score,core3,dense,0.4,0.03,0.1,0.75,3.0,,,,6,0.2482777081697774,Adequate_not_saturated,Adequacy reached; persistent saturation not established.
+Weight,core3,dense,0.4,0.03,0.1,0.75,4.0,,,,6,0.3015026482787263,Adequate_not_saturated,Adequacy reached; persistent saturation not established.
+Defecation,extended_all4,planned_sparse,0.4,0.03,0.1,0.75,,,,,6,0.4925038653632536,Indeterminate_due_to_sparse_schedule,"Sparse design: only one real future target (Day9), and no later sparse update after the final effective window; finite Defecation MSOH is not assigned."

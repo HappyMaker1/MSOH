@@ -1,0 +1,13 @@
+﻿Group,Weight_Observed_N,Weight_Missing_N,Status_Score_Observed_N,Status_Score_Missing_N,Feeding_Observed_N,Feeding_Missing_N,Defecation_Scheduled_N,Defecation_Observed_N,Defecation_Missing_N,Defecation_UnscheduledValue_N
+model,9,0,9,0,9,0,4,4,0,5
+op,9,0,9,0,9,0,4,4,0,5
+op1,9,0,9,0,9,0,4,4,0,5
+op2,9,0,9,0,9,0,4,4,0,5
+op3,9,0,9,0,9,0,4,4,0,5
+op4,9,0,9,0,9,0,4,4,0,5
+op5,9,0,9,0,9,0,4,4,0,5
+op6,9,0,9,0,9,0,4,4,0,5
+op7,9,0,9,0,9,0,4,4,0,5
+op8,9,0,9,0,9,0,4,4,0,5
+op9,9,0,9,0,9,0,4,4,0,5
+sham,9,0,9,0,9,0,4,4,0,5

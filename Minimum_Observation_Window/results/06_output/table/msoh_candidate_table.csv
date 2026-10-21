@@ -1,0 +1,4 @@
+﻿SourceMethod,Model,SimilarityLabel,Candidate_MSOH,Decision_Status,Error_Threshold,Gain_Delta,Alpha,Stability_Threshold
+dtw_all4,Similarity_DTW_All4_K2,DTW All4,4.0,Candidate MSOH identified,0.4,0.03,0.1,0.75
+dtw_core3,Similarity_DTW_Core3_K2,DTW Core3,5.0,Candidate MSOH identified,0.4,0.03,0.1,0.75
+euclidean_feature,Similarity_EuclideanFeature_K2,Euclidean Feature,,No window satisfied all criteria,0.4,0.03,0.1,0.75

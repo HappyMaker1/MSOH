@@ -1,0 +1,2 @@
+﻿ReferenceFile,N_Rows_Compared,Tolerance,MaxAbsDiff_y_true,MaxAbsDiff_y_pred,Baseline_PASS
+results\04_output\table\combined_predictions.csv,540,1e-06,0.0,8.526512829121202e-14,True

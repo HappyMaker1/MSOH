@@ -1,0 +1,15 @@
+﻿Signal,FromWindow,ToWindow,P_Gain_GT_Delta,Gain_Delta,Alpha,Gain_Probability_Condition,Stable_Group_Proportion,Stability_Threshold,Stability_Condition,Local_Saturation
+Feeding,2,3,0.7814,0.03,0.1,False,0.1666666666666666,0.75,False,False
+Feeding,3,4,0.7466,0.03,0.1,False,0.3333333333333333,0.75,False,False
+Feeding,4,5,0.1424,0.03,0.1,False,0.5,0.75,False,False
+Feeding,5,6,0.5922,0.03,0.1,False,0.5,0.75,False,False
+Status_Score,2,3,0.781,0.03,0.1,False,0.4166666666666667,0.75,False,False
+Status_Score,3,4,0.9692,0.03,0.1,False,0.1666666666666666,0.75,False,False
+Status_Score,4,5,0.0432,0.03,0.1,True,0.3333333333333333,0.75,False,False
+Status_Score,5,6,0.1876,0.03,0.1,False,0.0,0.75,False,False
+Weight,2,3,0.0002,0.03,0.1,True,0.1666666666666666,0.75,False,False
+Weight,3,4,0.873,0.03,0.1,False,0.0,0.75,False,False
+Weight,4,5,0.5772,0.03,0.1,False,0.1666666666666666,0.75,False,False
+Weight,5,6,0.9828,0.03,0.1,False,0.0,0.75,False,False
+Defecation,2,4,0.8626,0.03,0.1,False,0.0833333333333333,0.75,False,False
+Defecation,4,6,0.9812,0.03,0.1,False,0.1666666666666666,0.75,False,False

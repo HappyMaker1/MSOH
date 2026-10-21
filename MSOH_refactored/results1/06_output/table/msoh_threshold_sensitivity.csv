@@ -1,0 +1,577 @@
+﻿SimilarityLabel,Error_Threshold,Gain_Delta,Alpha,Stability_Threshold,Candidate_MSOH,Decision_Status
+DTW All4,0.35,0.01,0.05,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.01,0.05,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.01,0.05,0.5,,No window satisfied all criteria
+DTW All4,0.35,0.01,0.05,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.01,0.05,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.01,0.05,0.67,,No window satisfied all criteria
+DTW All4,0.35,0.01,0.05,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.01,0.05,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.01,0.05,0.75,,No window satisfied all criteria
+DTW All4,0.35,0.01,0.05,0.8,,No window satisfied all criteria
+DTW Core3,0.35,0.01,0.05,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.01,0.05,0.8,,No window satisfied all criteria
+DTW All4,0.35,0.01,0.1,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.01,0.1,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.01,0.1,0.5,,No window satisfied all criteria
+DTW All4,0.35,0.01,0.1,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.01,0.1,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.01,0.1,0.67,,No window satisfied all criteria
+DTW All4,0.35,0.01,0.1,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.01,0.1,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.01,0.1,0.75,,No window satisfied all criteria
+DTW All4,0.35,0.01,0.1,0.8,,No window satisfied all criteria
+DTW Core3,0.35,0.01,0.1,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.01,0.1,0.8,,No window satisfied all criteria
+DTW All4,0.35,0.01,0.2,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.01,0.2,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.01,0.2,0.5,,No window satisfied all criteria
+DTW All4,0.35,0.01,0.2,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.01,0.2,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.01,0.2,0.67,,No window satisfied all criteria
+DTW All4,0.35,0.01,0.2,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.01,0.2,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.01,0.2,0.75,,No window satisfied all criteria
+DTW All4,0.35,0.01,0.2,0.8,,No window satisfied all criteria
+DTW Core3,0.35,0.01,0.2,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.01,0.2,0.8,,No window satisfied all criteria
+DTW All4,0.35,0.02,0.05,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.02,0.05,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.02,0.05,0.5,,No window satisfied all criteria
+DTW All4,0.35,0.02,0.05,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.02,0.05,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.02,0.05,0.67,,No window satisfied all criteria
+DTW All4,0.35,0.02,0.05,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.02,0.05,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.02,0.05,0.75,,No window satisfied all criteria
+DTW All4,0.35,0.02,0.05,0.8,,No window satisfied all criteria
+DTW Core3,0.35,0.02,0.05,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.02,0.05,0.8,,No window satisfied all criteria
+DTW All4,0.35,0.02,0.1,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.02,0.1,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.02,0.1,0.5,,No window satisfied all criteria
+DTW All4,0.35,0.02,0.1,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.02,0.1,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.02,0.1,0.67,,No window satisfied all criteria
+DTW All4,0.35,0.02,0.1,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.02,0.1,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.02,0.1,0.75,,No window satisfied all criteria
+DTW All4,0.35,0.02,0.1,0.8,,No window satisfied all criteria
+DTW Core3,0.35,0.02,0.1,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.02,0.1,0.8,,No window satisfied all criteria
+DTW All4,0.35,0.02,0.2,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.02,0.2,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.02,0.2,0.5,,No window satisfied all criteria
+DTW All4,0.35,0.02,0.2,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.02,0.2,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.02,0.2,0.67,,No window satisfied all criteria
+DTW All4,0.35,0.02,0.2,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.02,0.2,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.02,0.2,0.75,,No window satisfied all criteria
+DTW All4,0.35,0.02,0.2,0.8,,No window satisfied all criteria
+DTW Core3,0.35,0.02,0.2,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.02,0.2,0.8,,No window satisfied all criteria
+DTW All4,0.35,0.03,0.05,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.03,0.05,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.03,0.05,0.5,,No window satisfied all criteria
+DTW All4,0.35,0.03,0.05,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.03,0.05,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.03,0.05,0.67,,No window satisfied all criteria
+DTW All4,0.35,0.03,0.05,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.03,0.05,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.03,0.05,0.75,,No window satisfied all criteria
+DTW All4,0.35,0.03,0.05,0.8,,No window satisfied all criteria
+DTW Core3,0.35,0.03,0.05,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.03,0.05,0.8,,No window satisfied all criteria
+DTW All4,0.35,0.03,0.1,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.03,0.1,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.03,0.1,0.5,,No window satisfied all criteria
+DTW All4,0.35,0.03,0.1,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.03,0.1,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.03,0.1,0.67,,No window satisfied all criteria
+DTW All4,0.35,0.03,0.1,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.03,0.1,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.03,0.1,0.75,,No window satisfied all criteria
+DTW All4,0.35,0.03,0.1,0.8,,No window satisfied all criteria
+DTW Core3,0.35,0.03,0.1,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.03,0.1,0.8,,No window satisfied all criteria
+DTW All4,0.35,0.03,0.2,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.03,0.2,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.03,0.2,0.5,,No window satisfied all criteria
+DTW All4,0.35,0.03,0.2,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.03,0.2,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.03,0.2,0.67,,No window satisfied all criteria
+DTW All4,0.35,0.03,0.2,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.03,0.2,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.03,0.2,0.75,,No window satisfied all criteria
+DTW All4,0.35,0.03,0.2,0.8,,No window satisfied all criteria
+DTW Core3,0.35,0.03,0.2,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.03,0.2,0.8,,No window satisfied all criteria
+DTW All4,0.35,0.05,0.05,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.05,0.05,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.05,0.05,0.5,,No window satisfied all criteria
+DTW All4,0.35,0.05,0.05,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.05,0.05,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.05,0.05,0.67,,No window satisfied all criteria
+DTW All4,0.35,0.05,0.05,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.05,0.05,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.05,0.05,0.75,,No window satisfied all criteria
+DTW All4,0.35,0.05,0.05,0.8,,No window satisfied all criteria
+DTW Core3,0.35,0.05,0.05,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.05,0.05,0.8,,No window satisfied all criteria
+DTW All4,0.35,0.05,0.1,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.05,0.1,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.05,0.1,0.5,,No window satisfied all criteria
+DTW All4,0.35,0.05,0.1,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.05,0.1,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.05,0.1,0.67,,No window satisfied all criteria
+DTW All4,0.35,0.05,0.1,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.05,0.1,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.05,0.1,0.75,,No window satisfied all criteria
+DTW All4,0.35,0.05,0.1,0.8,,No window satisfied all criteria
+DTW Core3,0.35,0.05,0.1,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.05,0.1,0.8,,No window satisfied all criteria
+DTW All4,0.35,0.05,0.2,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.05,0.2,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.05,0.2,0.5,,No window satisfied all criteria
+DTW All4,0.35,0.05,0.2,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.05,0.2,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.05,0.2,0.67,,No window satisfied all criteria
+DTW All4,0.35,0.05,0.2,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.35,0.05,0.2,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.05,0.2,0.75,,No window satisfied all criteria
+DTW All4,0.35,0.05,0.2,0.8,,No window satisfied all criteria
+DTW Core3,0.35,0.05,0.2,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.35,0.05,0.2,0.8,,No window satisfied all criteria
+DTW All4,0.4,0.01,0.05,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.4,0.01,0.05,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.01,0.05,0.5,,No window satisfied all criteria
+DTW All4,0.4,0.01,0.05,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.4,0.01,0.05,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.01,0.05,0.67,,No window satisfied all criteria
+DTW All4,0.4,0.01,0.05,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.4,0.01,0.05,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.01,0.05,0.75,,No window satisfied all criteria
+DTW All4,0.4,0.01,0.05,0.8,,No window satisfied all criteria
+DTW Core3,0.4,0.01,0.05,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.01,0.05,0.8,,No window satisfied all criteria
+DTW All4,0.4,0.01,0.1,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.4,0.01,0.1,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.01,0.1,0.5,,No window satisfied all criteria
+DTW All4,0.4,0.01,0.1,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.4,0.01,0.1,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.01,0.1,0.67,,No window satisfied all criteria
+DTW All4,0.4,0.01,0.1,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.4,0.01,0.1,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.01,0.1,0.75,,No window satisfied all criteria
+DTW All4,0.4,0.01,0.1,0.8,,No window satisfied all criteria
+DTW Core3,0.4,0.01,0.1,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.01,0.1,0.8,,No window satisfied all criteria
+DTW All4,0.4,0.01,0.2,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.01,0.2,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.01,0.2,0.5,,No window satisfied all criteria
+DTW All4,0.4,0.01,0.2,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.01,0.2,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.01,0.2,0.67,,No window satisfied all criteria
+DTW All4,0.4,0.01,0.2,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.01,0.2,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.01,0.2,0.75,,No window satisfied all criteria
+DTW All4,0.4,0.01,0.2,0.8,,No window satisfied all criteria
+DTW Core3,0.4,0.01,0.2,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.01,0.2,0.8,,No window satisfied all criteria
+DTW All4,0.4,0.02,0.05,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.02,0.05,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.02,0.05,0.5,,No window satisfied all criteria
+DTW All4,0.4,0.02,0.05,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.02,0.05,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.02,0.05,0.67,,No window satisfied all criteria
+DTW All4,0.4,0.02,0.05,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.02,0.05,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.02,0.05,0.75,,No window satisfied all criteria
+DTW All4,0.4,0.02,0.05,0.8,,No window satisfied all criteria
+DTW Core3,0.4,0.02,0.05,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.02,0.05,0.8,,No window satisfied all criteria
+DTW All4,0.4,0.02,0.1,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.02,0.1,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.02,0.1,0.5,,No window satisfied all criteria
+DTW All4,0.4,0.02,0.1,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.02,0.1,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.02,0.1,0.67,,No window satisfied all criteria
+DTW All4,0.4,0.02,0.1,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.02,0.1,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.02,0.1,0.75,,No window satisfied all criteria
+DTW All4,0.4,0.02,0.1,0.8,,No window satisfied all criteria
+DTW Core3,0.4,0.02,0.1,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.02,0.1,0.8,,No window satisfied all criteria
+DTW All4,0.4,0.02,0.2,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.02,0.2,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.02,0.2,0.5,,No window satisfied all criteria
+DTW All4,0.4,0.02,0.2,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.02,0.2,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.02,0.2,0.67,,No window satisfied all criteria
+DTW All4,0.4,0.02,0.2,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.02,0.2,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.02,0.2,0.75,,No window satisfied all criteria
+DTW All4,0.4,0.02,0.2,0.8,,No window satisfied all criteria
+DTW Core3,0.4,0.02,0.2,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.02,0.2,0.8,,No window satisfied all criteria
+DTW All4,0.4,0.03,0.05,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.03,0.05,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.03,0.05,0.5,,No window satisfied all criteria
+DTW All4,0.4,0.03,0.05,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.03,0.05,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.03,0.05,0.67,,No window satisfied all criteria
+DTW All4,0.4,0.03,0.05,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.03,0.05,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.03,0.05,0.75,,No window satisfied all criteria
+DTW All4,0.4,0.03,0.05,0.8,,No window satisfied all criteria
+DTW Core3,0.4,0.03,0.05,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.03,0.05,0.8,,No window satisfied all criteria
+DTW All4,0.4,0.03,0.1,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.03,0.1,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.03,0.1,0.5,,No window satisfied all criteria
+DTW All4,0.4,0.03,0.1,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.03,0.1,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.03,0.1,0.67,,No window satisfied all criteria
+DTW All4,0.4,0.03,0.1,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.03,0.1,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.03,0.1,0.75,,No window satisfied all criteria
+DTW All4,0.4,0.03,0.1,0.8,,No window satisfied all criteria
+DTW Core3,0.4,0.03,0.1,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.03,0.1,0.8,,No window satisfied all criteria
+DTW All4,0.4,0.03,0.2,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.03,0.2,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.03,0.2,0.5,,No window satisfied all criteria
+DTW All4,0.4,0.03,0.2,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.03,0.2,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.03,0.2,0.67,,No window satisfied all criteria
+DTW All4,0.4,0.03,0.2,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.03,0.2,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.03,0.2,0.75,,No window satisfied all criteria
+DTW All4,0.4,0.03,0.2,0.8,,No window satisfied all criteria
+DTW Core3,0.4,0.03,0.2,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.03,0.2,0.8,,No window satisfied all criteria
+DTW All4,0.4,0.05,0.05,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.05,0.05,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.05,0.05,0.5,,No window satisfied all criteria
+DTW All4,0.4,0.05,0.05,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.05,0.05,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.05,0.05,0.67,,No window satisfied all criteria
+DTW All4,0.4,0.05,0.05,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.05,0.05,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.05,0.05,0.75,,No window satisfied all criteria
+DTW All4,0.4,0.05,0.05,0.8,,No window satisfied all criteria
+DTW Core3,0.4,0.05,0.05,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.05,0.05,0.8,,No window satisfied all criteria
+DTW All4,0.4,0.05,0.1,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.05,0.1,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.05,0.1,0.5,,No window satisfied all criteria
+DTW All4,0.4,0.05,0.1,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.05,0.1,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.05,0.1,0.67,,No window satisfied all criteria
+DTW All4,0.4,0.05,0.1,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.05,0.1,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.05,0.1,0.75,,No window satisfied all criteria
+DTW All4,0.4,0.05,0.1,0.8,,No window satisfied all criteria
+DTW Core3,0.4,0.05,0.1,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.05,0.1,0.8,,No window satisfied all criteria
+DTW All4,0.4,0.05,0.2,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.05,0.2,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.05,0.2,0.5,,No window satisfied all criteria
+DTW All4,0.4,0.05,0.2,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.05,0.2,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.05,0.2,0.67,,No window satisfied all criteria
+DTW All4,0.4,0.05,0.2,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.4,0.05,0.2,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.05,0.2,0.75,,No window satisfied all criteria
+DTW All4,0.4,0.05,0.2,0.8,,No window satisfied all criteria
+DTW Core3,0.4,0.05,0.2,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.4,0.05,0.2,0.8,,No window satisfied all criteria
+DTW All4,0.45,0.01,0.05,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.45,0.01,0.05,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.01,0.05,0.5,,No window satisfied all criteria
+DTW All4,0.45,0.01,0.05,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.45,0.01,0.05,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.01,0.05,0.67,,No window satisfied all criteria
+DTW All4,0.45,0.01,0.05,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.45,0.01,0.05,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.01,0.05,0.75,,No window satisfied all criteria
+DTW All4,0.45,0.01,0.05,0.8,,No window satisfied all criteria
+DTW Core3,0.45,0.01,0.05,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.01,0.05,0.8,,No window satisfied all criteria
+DTW All4,0.45,0.01,0.1,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.45,0.01,0.1,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.01,0.1,0.5,,No window satisfied all criteria
+DTW All4,0.45,0.01,0.1,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.45,0.01,0.1,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.01,0.1,0.67,,No window satisfied all criteria
+DTW All4,0.45,0.01,0.1,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.45,0.01,0.1,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.01,0.1,0.75,,No window satisfied all criteria
+DTW All4,0.45,0.01,0.1,0.8,,No window satisfied all criteria
+DTW Core3,0.45,0.01,0.1,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.01,0.1,0.8,,No window satisfied all criteria
+DTW All4,0.45,0.01,0.2,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.01,0.2,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.01,0.2,0.5,,No window satisfied all criteria
+DTW All4,0.45,0.01,0.2,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.01,0.2,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.01,0.2,0.67,,No window satisfied all criteria
+DTW All4,0.45,0.01,0.2,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.01,0.2,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.01,0.2,0.75,,No window satisfied all criteria
+DTW All4,0.45,0.01,0.2,0.8,,No window satisfied all criteria
+DTW Core3,0.45,0.01,0.2,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.01,0.2,0.8,,No window satisfied all criteria
+DTW All4,0.45,0.02,0.05,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.02,0.05,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.02,0.05,0.5,,No window satisfied all criteria
+DTW All4,0.45,0.02,0.05,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.02,0.05,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.02,0.05,0.67,,No window satisfied all criteria
+DTW All4,0.45,0.02,0.05,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.02,0.05,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.02,0.05,0.75,,No window satisfied all criteria
+DTW All4,0.45,0.02,0.05,0.8,,No window satisfied all criteria
+DTW Core3,0.45,0.02,0.05,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.02,0.05,0.8,,No window satisfied all criteria
+DTW All4,0.45,0.02,0.1,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.02,0.1,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.02,0.1,0.5,,No window satisfied all criteria
+DTW All4,0.45,0.02,0.1,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.02,0.1,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.02,0.1,0.67,,No window satisfied all criteria
+DTW All4,0.45,0.02,0.1,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.02,0.1,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.02,0.1,0.75,,No window satisfied all criteria
+DTW All4,0.45,0.02,0.1,0.8,,No window satisfied all criteria
+DTW Core3,0.45,0.02,0.1,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.02,0.1,0.8,,No window satisfied all criteria
+DTW All4,0.45,0.02,0.2,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.02,0.2,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.02,0.2,0.5,4.0,Candidate MSOH identified
+DTW All4,0.45,0.02,0.2,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.02,0.2,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.02,0.2,0.67,,No window satisfied all criteria
+DTW All4,0.45,0.02,0.2,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.02,0.2,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.02,0.2,0.75,,No window satisfied all criteria
+DTW All4,0.45,0.02,0.2,0.8,,No window satisfied all criteria
+DTW Core3,0.45,0.02,0.2,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.02,0.2,0.8,,No window satisfied all criteria
+DTW All4,0.45,0.03,0.05,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.03,0.05,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.03,0.05,0.5,,No window satisfied all criteria
+DTW All4,0.45,0.03,0.05,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.03,0.05,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.03,0.05,0.67,,No window satisfied all criteria
+DTW All4,0.45,0.03,0.05,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.03,0.05,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.03,0.05,0.75,,No window satisfied all criteria
+DTW All4,0.45,0.03,0.05,0.8,,No window satisfied all criteria
+DTW Core3,0.45,0.03,0.05,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.03,0.05,0.8,,No window satisfied all criteria
+DTW All4,0.45,0.03,0.1,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.03,0.1,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.03,0.1,0.5,4.0,Candidate MSOH identified
+DTW All4,0.45,0.03,0.1,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.03,0.1,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.03,0.1,0.67,,No window satisfied all criteria
+DTW All4,0.45,0.03,0.1,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.03,0.1,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.03,0.1,0.75,,No window satisfied all criteria
+DTW All4,0.45,0.03,0.1,0.8,,No window satisfied all criteria
+DTW Core3,0.45,0.03,0.1,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.03,0.1,0.8,,No window satisfied all criteria
+DTW All4,0.45,0.03,0.2,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.03,0.2,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.03,0.2,0.5,4.0,Candidate MSOH identified
+DTW All4,0.45,0.03,0.2,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.03,0.2,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.03,0.2,0.67,,No window satisfied all criteria
+DTW All4,0.45,0.03,0.2,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.03,0.2,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.03,0.2,0.75,,No window satisfied all criteria
+DTW All4,0.45,0.03,0.2,0.8,,No window satisfied all criteria
+DTW Core3,0.45,0.03,0.2,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.03,0.2,0.8,,No window satisfied all criteria
+DTW All4,0.45,0.05,0.05,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.05,0.05,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.05,0.05,0.5,4.0,Candidate MSOH identified
+DTW All4,0.45,0.05,0.05,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.05,0.05,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.05,0.05,0.67,,No window satisfied all criteria
+DTW All4,0.45,0.05,0.05,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.05,0.05,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.05,0.05,0.75,,No window satisfied all criteria
+DTW All4,0.45,0.05,0.05,0.8,,No window satisfied all criteria
+DTW Core3,0.45,0.05,0.05,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.05,0.05,0.8,,No window satisfied all criteria
+DTW All4,0.45,0.05,0.1,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.05,0.1,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.05,0.1,0.5,4.0,Candidate MSOH identified
+DTW All4,0.45,0.05,0.1,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.05,0.1,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.05,0.1,0.67,,No window satisfied all criteria
+DTW All4,0.45,0.05,0.1,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.05,0.1,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.05,0.1,0.75,,No window satisfied all criteria
+DTW All4,0.45,0.05,0.1,0.8,,No window satisfied all criteria
+DTW Core3,0.45,0.05,0.1,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.05,0.1,0.8,,No window satisfied all criteria
+DTW All4,0.45,0.05,0.2,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.05,0.2,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.05,0.2,0.5,4.0,Candidate MSOH identified
+DTW All4,0.45,0.05,0.2,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.05,0.2,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.05,0.2,0.67,,No window satisfied all criteria
+DTW All4,0.45,0.05,0.2,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.45,0.05,0.2,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.05,0.2,0.75,,No window satisfied all criteria
+DTW All4,0.45,0.05,0.2,0.8,,No window satisfied all criteria
+DTW Core3,0.45,0.05,0.2,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.45,0.05,0.2,0.8,,No window satisfied all criteria
+DTW All4,0.5,0.01,0.05,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.5,0.01,0.05,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.01,0.05,0.5,,No window satisfied all criteria
+DTW All4,0.5,0.01,0.05,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.5,0.01,0.05,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.01,0.05,0.67,,No window satisfied all criteria
+DTW All4,0.5,0.01,0.05,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.5,0.01,0.05,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.01,0.05,0.75,,No window satisfied all criteria
+DTW All4,0.5,0.01,0.05,0.8,,No window satisfied all criteria
+DTW Core3,0.5,0.01,0.05,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.01,0.05,0.8,,No window satisfied all criteria
+DTW All4,0.5,0.01,0.1,0.5,5.0,Candidate MSOH identified
+DTW Core3,0.5,0.01,0.1,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.01,0.1,0.5,,No window satisfied all criteria
+DTW All4,0.5,0.01,0.1,0.67,5.0,Candidate MSOH identified
+DTW Core3,0.5,0.01,0.1,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.01,0.1,0.67,,No window satisfied all criteria
+DTW All4,0.5,0.01,0.1,0.75,5.0,Candidate MSOH identified
+DTW Core3,0.5,0.01,0.1,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.01,0.1,0.75,,No window satisfied all criteria
+DTW All4,0.5,0.01,0.1,0.8,,No window satisfied all criteria
+DTW Core3,0.5,0.01,0.1,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.01,0.1,0.8,,No window satisfied all criteria
+DTW All4,0.5,0.01,0.2,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.01,0.2,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.01,0.2,0.5,,No window satisfied all criteria
+DTW All4,0.5,0.01,0.2,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.01,0.2,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.01,0.2,0.67,,No window satisfied all criteria
+DTW All4,0.5,0.01,0.2,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.01,0.2,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.01,0.2,0.75,,No window satisfied all criteria
+DTW All4,0.5,0.01,0.2,0.8,,No window satisfied all criteria
+DTW Core3,0.5,0.01,0.2,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.01,0.2,0.8,,No window satisfied all criteria
+DTW All4,0.5,0.02,0.05,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.02,0.05,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.02,0.05,0.5,,No window satisfied all criteria
+DTW All4,0.5,0.02,0.05,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.02,0.05,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.02,0.05,0.67,,No window satisfied all criteria
+DTW All4,0.5,0.02,0.05,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.02,0.05,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.02,0.05,0.75,,No window satisfied all criteria
+DTW All4,0.5,0.02,0.05,0.8,,No window satisfied all criteria
+DTW Core3,0.5,0.02,0.05,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.02,0.05,0.8,,No window satisfied all criteria
+DTW All4,0.5,0.02,0.1,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.02,0.1,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.02,0.1,0.5,,No window satisfied all criteria
+DTW All4,0.5,0.02,0.1,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.02,0.1,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.02,0.1,0.67,,No window satisfied all criteria
+DTW All4,0.5,0.02,0.1,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.02,0.1,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.02,0.1,0.75,,No window satisfied all criteria
+DTW All4,0.5,0.02,0.1,0.8,,No window satisfied all criteria
+DTW Core3,0.5,0.02,0.1,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.02,0.1,0.8,,No window satisfied all criteria
+DTW All4,0.5,0.02,0.2,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.02,0.2,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.02,0.2,0.5,4.0,Candidate MSOH identified
+DTW All4,0.5,0.02,0.2,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.02,0.2,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.02,0.2,0.67,,No window satisfied all criteria
+DTW All4,0.5,0.02,0.2,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.02,0.2,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.02,0.2,0.75,,No window satisfied all criteria
+DTW All4,0.5,0.02,0.2,0.8,,No window satisfied all criteria
+DTW Core3,0.5,0.02,0.2,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.02,0.2,0.8,,No window satisfied all criteria
+DTW All4,0.5,0.03,0.05,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.03,0.05,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.03,0.05,0.5,,No window satisfied all criteria
+DTW All4,0.5,0.03,0.05,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.03,0.05,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.03,0.05,0.67,,No window satisfied all criteria
+DTW All4,0.5,0.03,0.05,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.03,0.05,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.03,0.05,0.75,,No window satisfied all criteria
+DTW All4,0.5,0.03,0.05,0.8,,No window satisfied all criteria
+DTW Core3,0.5,0.03,0.05,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.03,0.05,0.8,,No window satisfied all criteria
+DTW All4,0.5,0.03,0.1,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.03,0.1,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.03,0.1,0.5,4.0,Candidate MSOH identified
+DTW All4,0.5,0.03,0.1,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.03,0.1,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.03,0.1,0.67,,No window satisfied all criteria
+DTW All4,0.5,0.03,0.1,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.03,0.1,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.03,0.1,0.75,,No window satisfied all criteria
+DTW All4,0.5,0.03,0.1,0.8,,No window satisfied all criteria
+DTW Core3,0.5,0.03,0.1,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.03,0.1,0.8,,No window satisfied all criteria
+DTW All4,0.5,0.03,0.2,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.03,0.2,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.03,0.2,0.5,4.0,Candidate MSOH identified
+DTW All4,0.5,0.03,0.2,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.03,0.2,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.03,0.2,0.67,,No window satisfied all criteria
+DTW All4,0.5,0.03,0.2,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.03,0.2,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.03,0.2,0.75,,No window satisfied all criteria
+DTW All4,0.5,0.03,0.2,0.8,,No window satisfied all criteria
+DTW Core3,0.5,0.03,0.2,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.03,0.2,0.8,,No window satisfied all criteria
+DTW All4,0.5,0.05,0.05,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.05,0.05,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.05,0.05,0.5,4.0,Candidate MSOH identified
+DTW All4,0.5,0.05,0.05,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.05,0.05,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.05,0.05,0.67,,No window satisfied all criteria
+DTW All4,0.5,0.05,0.05,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.05,0.05,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.05,0.05,0.75,,No window satisfied all criteria
+DTW All4,0.5,0.05,0.05,0.8,,No window satisfied all criteria
+DTW Core3,0.5,0.05,0.05,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.05,0.05,0.8,,No window satisfied all criteria
+DTW All4,0.5,0.05,0.1,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.05,0.1,0.5,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.05,0.1,0.5,4.0,Candidate MSOH identified
+DTW All4,0.5,0.05,0.1,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.05,0.1,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.05,0.1,0.67,,No window satisfied all criteria
+DTW All4,0.5,0.05,0.1,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.05,0.1,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.05,0.1,0.75,,No window satisfied all criteria
+DTW All4,0.5,0.05,0.1,0.8,,No window satisfied all criteria
+DTW Core3,0.5,0.05,0.1,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.05,0.1,0.8,,No window satisfied all criteria
+DTW All4,0.5,0.05,0.2,0.5,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.05,0.2,0.5,3.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.05,0.2,0.5,4.0,Candidate MSOH identified
+DTW All4,0.5,0.05,0.2,0.67,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.05,0.2,0.67,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.05,0.2,0.67,,No window satisfied all criteria
+DTW All4,0.5,0.05,0.2,0.75,4.0,Candidate MSOH identified
+DTW Core3,0.5,0.05,0.2,0.75,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.05,0.2,0.75,,No window satisfied all criteria
+DTW All4,0.5,0.05,0.2,0.8,,No window satisfied all criteria
+DTW Core3,0.5,0.05,0.2,0.8,5.0,Candidate MSOH identified
+Euclidean Feature,0.5,0.05,0.2,0.8,,No window satisfied all criteria
